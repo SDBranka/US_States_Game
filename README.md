@@ -9,7 +9,7 @@
 ---
 
 <p float="center">
-    <img src="https://github.com/SDBranka/US_States_Game/blob/main/Resources/Game_Start_screenshot.png" width=45% height= 333 alt="game start image"/>
+    <img src="https://github.com/SDBranka/US_States_Game/blob/main/Resources/Game_Start_screenshot.png" width=45% height= 315 alt="game start image"/>
     <img src="https://github.com/SDBranka/US_States_Game/blob/main/Resources/Game_Play_screenshot.png" width=45% alt="game play image"/>
 </p>
 
