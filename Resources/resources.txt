@@ -1,0 +1,11 @@
+Turtle Documentation:
+https://docs.python.org/3/library/turtle.html
+
+
+Pandas Documentation:
+https://pandas.pydata.org/docs/getting_started/index.html#getting-started
+
+https://pandas.pydata.org/docs/reference/series.html#computations-descriptive-stats
+
+Pandas API reference
+https://pandas.pydata.org/docs/reference/index.html
