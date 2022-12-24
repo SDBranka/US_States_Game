@@ -27,6 +27,7 @@ This app will populate a list of the 50 states of the United States of America f
             </ul>
         </ul></li>
     <li>Should the user enter "exit" the game will end</li>
+</ul>
 
 ##### Technologies
 
