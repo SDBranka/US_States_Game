@@ -41,7 +41,6 @@ while scoreboard.score < 50:
         new_data.to_csv("states_to_learn.csv")
         break
 
-
     # check if the guess is among the 50 states and has not been previously guessed
     if answer_state in scoreboard.missed_states:
         print("You guessed correctly!")
