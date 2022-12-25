@@ -28,7 +28,7 @@ scoreboard = Scoreboard(states["state"].to_list())
 # screen.onscreenclick(get_mouse_click_coor)
 
 
-while scoreboard.score < 51:
+while scoreboard.score < 50:
     # prompt the user with a question and store the answer in a variable as title case
     answer_state = (screen.textinput(title = f"{scoreboard.score}/50   Guess the State",
                                     prompt = "Name a US state?\n(or enter exit to quit)"
